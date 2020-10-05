@@ -118,6 +118,6 @@ var interestsInfo =
 "• Activism\n";
 
 var contactInfo = [
-  "email: <a href='mailto:fmaric.os@gmail.com'>fmaric.os@gmail.com</a><br/>",
-  "phone: +385976472678 <br/>"
+  "email: <a href='mailto:ganeshredcobra@gmail.com'>ganeshredcobra@gmail.com</a><br/>",
+  "phone: +919446242358 <br/>"
 ];
