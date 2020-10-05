@@ -5,7 +5,7 @@ var skillsInfo = "• Programming Languages - C language, Python language, Bash\
   "• Bash\n" +
   "• Linux\n" +
   "• Git\n" +
-  "• The ability to quickly come up to speed on a new project\n";
+  "• Debuggers - Lauterbach Trace 32, ULink2ME, PE Micro, ST Link, PICKit\n";
 
 var experienceInfo = 
 "Dec 2018 - Jul 2020\n" +
