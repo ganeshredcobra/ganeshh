@@ -85,11 +85,12 @@ var projectsInfo = {
   "Website Spell Checker for Croatian websites": "https://github.com/feelqah/CroSiteSpellCheck"
 };
 
-var aboutmeInfo = "\nETech Lead with 9+ years of experience in software engineering of Automotive embedded systems.\n" +
+var aboutmeInfo = "\nTechnical Lead with 9+ years of experience in software engineering of Automotive embedded systems.\n" +
   "Good working knowledge in Embedded C, Lauterbach scripting, CAPL Scripting, Microcontroller Concepts and\n" +
   "GIT & SVN infrastructure management.Excellent skills in trouble-shooting software issues on machines with JTAG emulators. \n" +
   "\nExperience in Embedded Linux development and debugging.Good know how on C,C++ and Python development and debugging in Linux. \n" +
-   "Have worked on Linux internals, Board bringup activities and BSP development using Yocto. Experience in Qt,QML and OpenCV development in Linux.\n";
+   "Have worked on Linux internals, Board bringup activities and BSP development using Yocto. \n" +
+   "Experience in Qt,QML and OpenCV development in Linux.\n";
 
 var interestsInfo =
 "• Software Development\n" +
