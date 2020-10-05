@@ -1,11 +1,9 @@
 /* Resume information*/
 
-var skillsInfo = "• Programming Languages - C language, Python language, Bash\n" +
-  "• Python language\n" +
-  "• Bash\n" +
-  "• Linux\n" +
-  "• Git\n" +
-  "• Debuggers - Lauterbach Trace 32, ULink2ME, PE Micro, ST Link, PICKit\n";
+var skillsInfo = "• Programming Languages - C language, Python language, Bash.\n" +
+  "• CAN Tools - VECTOR CANalyzer, NeoVI, Kvaser, Microchip CAN Analyzer, CANMATE.\n" +
+  "• Protocols - CAN, I2C, SPI, RS232.\n" +
+  "• Debuggers - Lauterbach Trace 32, ULink2ME, PE Micro, ST Link, PICKit.\n";
 
 var experienceInfo = 
 "Dec 2018 - Jul 2020\n" +
@@ -97,14 +95,8 @@ var interestsInfo =
 "• Electronics  \n" +
 "• Cyber Security\n" +
 "• Ethical Hacking \n" +
-"• Physics\n" +
-"• Eastern Philosophy\n" +
-"• Psychology \n" +
 "• Everything DIY \n" +
-"• Permaculture gardening\n" +
-"• Cooking\n" +
 "• Hiking\n" +
-"• Animal Welfare \n" +
 "• Social Justice \n" +
 "• Activism\n";
 
