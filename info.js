@@ -2,18 +2,9 @@
 
 var skillsInfo = "• C language\n" +
   "• Python language\n" +
-  "• Git\n" +
+  "• Bash\n" +
   "• Linux\n" +
-  "• Operating Systems concepts\n" +
-  "• Basic networking concepts\n" +
-  "• Basic web scraping knowledge\n" +
-  "• Basic web development (HTMl, CSS, JS, PHP)\n" +
-  "• Strong problem solving and debugging skills\n" +
-  "• Creativity and ability to learn quickly\n" +
-  "• Exceptional communication\n" +
-  "• Successful working in a team environment, as well as independently \n" +
-  "• The ability to work under pressure and multi-task\n" +
-  "• The ability to follow instructions and deliver quality results\n" +
+  "• Git\n" +
   "• The ability to quickly come up to speed on a new project\n";
 
 var experienceInfo = 
