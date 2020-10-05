@@ -62,18 +62,16 @@ var experienceInfo =
 
 
 var educationInfo = 
-"2005--2009 - B.Tech, Applied Electronics & Instrumentation Engineering University of Kerala\n" +
+"2005--2009 - B.Tech, Applied Electronics & Instrumentation Engineering \n" +
 "P.A.Aziz College of Engineering \& Technology\n" +
-"Kerala Uiversity\n" +
+"University of Kerala\n" +
 
 
-"\n2010 High School Diploma – Electronics technician\n" +
-"Electrical Engineering and Traffic School Osijek\n" +
-"Notable classes:\n" +
-"Digital electronics, C Programming, Intro to Microprocessors, Robotics\n" +
-"Graduation paper:\n" +
-"Laser beam amplitude modulation\n" +
-"Electronics projects where sound from an mp3 player was sent over a laser beam to a photoresistor which was connected to an amplifier and a speaker\n";
+"\n2003--2005 - Higher Secondary\n" +
+"Govt Model Boys H S S Chalai, Trivandrum, Kerala\n" +
+    
+"\n2002--2003 - Secondary School\n" +
+"Govt Model Boys H S S Chalai, Trivandrum, Kerala \n";
 
 
 var projectsInfo = {
