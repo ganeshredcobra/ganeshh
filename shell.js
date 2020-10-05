@@ -114,7 +114,7 @@ $("#shell").keydown(function(e){
     input = input.trim().toLowerCase();
 
     // Print the shell prompt
-    print("[feelqah@github ~]$ " + input + "<br/>");
+    print("[ganeshredcobra@github ~]$ " + input + "<br/>");
 
     if(input != ""){
       $("#shell").val("");
