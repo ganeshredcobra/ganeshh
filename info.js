@@ -62,12 +62,9 @@ var experienceInfo =
 
 
 var educationInfo = 
-"2016 Master's degree - Computer Engineer\n" +
-"Faculty of Electrical Engineering Osijek\n" +
-"Notable courses:\n" +
-"Computer Architecture, Computer Networks, Programming in C/C++, Operating Systems, Web programming and Real-time Computer Systems\n" +
-"Graduation paper:\n" +
-"Transport protocol Stream Control Transmission Protocol (SCTP) in distributed  application development\n" +
+"2005--2009 - B.Tech, Applied Electronics & Instrumentation Engineering University of Kerala\n" +
+"P.A.Aziz College of Engineering \& Technology\n" +
+"Kerala Uiversity\n" +
 
 
 "\n2010 High School Diploma – Electronics technician\n" +
