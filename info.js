@@ -1,6 +1,6 @@
 /* Resume information*/
 
-var skillsInfo = "• C language\n" +
+var skillsInfo = "• Programming Languages - C language, Python language, Bash\n" +
   "• Python language\n" +
   "• Bash\n" +
   "• Linux\n" +
