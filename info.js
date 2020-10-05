@@ -85,10 +85,11 @@ var projectsInfo = {
   "Website Spell Checker for Croatian websites": "https://github.com/feelqah/CroSiteSpellCheck"
 };
 
-var aboutmeInfo = "\nEmbedded Software Engineer from Osijek, Croatia, with 5 years experience in Embedded and Automotive field and\n" +
-  "an extensive range of skills including software development, debugging, task automation and software testing.\n" +
-  "\nAlso, I volunteer at a local dog shelter and try to live eco-friendly as possible with a DIY mindset \n" +
-  "(always trying to build stuff from scratch, no matter the field).\n";
+var aboutmeInfo = "\nETech Lead with 9+ years of experience in software engineering of Automotive embedded systems.\n" +
+  "Good working knowledge in Embedded C, Lauterbach scripting, CAPL Scripting, Microcontroller Concepts and\n" +
+  "GIT & SVN infrastructure management.Excellent skills in trouble-shooting software issues on machines with JTAG emulators. \n" +
+  "\nExperience in Embedded Linux development and debugging.Good know how on C,C++ and Python development and debugging in Linux. \n" +
+   "Have worked on Linux internals, Board bringup activities and BSP development using Yocto. Experience in Qt,QML and OpenCV development in Linux.\n";
 
 var interestsInfo =
 "• Software Development\n" +
