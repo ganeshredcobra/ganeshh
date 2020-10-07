@@ -9,6 +9,7 @@ var welcome_message = "Type in a command (or 'help' to list all supported comman
 var commands =
     [
       "help",
+      "ls",
       "clear",
       "skills",
       "experience",
@@ -219,4 +220,12 @@ function contact(){
 function resume(){
   //$("#displayText").append('<a href="#" onclick="window.open(\'resume.pdf\', \'_blank\', \'fullscreen=yes\'); return false;">PDF Résumé</a> <br/>');
   //$("#shell").get(0).scrollIntoView();
+}
+
+function ls(){
+
+  for(var i=0; i < commands.length; i++){
+    print(commands[i]+" ");
+  }
+  print("<br/>");
 }
