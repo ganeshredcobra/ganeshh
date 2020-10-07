@@ -6,60 +6,26 @@ var skillsInfo = "• Programming Languages - C language, Python language, Bash.
   "• Debuggers - Lauterbach Trace 32, ULink2ME, PE Micro, ST Link, PICKit.\n";
 
 var experienceInfo = 
-"Dec 2018 - Jul 2020\n" +
-"RT-RK, Embedded Software Engineer\n" +
-"MotionWise project\n" +
-"The MotionWise project is a configurable Platform Software solution for Automotive ECUs (Electronic Control Unit) created by Austrian company TTTech\n" +
-"• Writing internal tools in Python for the RT-RK custom testing framework\n" +
-"• Fixing bugs in the RT-RK custom testing framework\n" +
-"• Writing new features in Python for the RT-RK custom testing framework\n" +
-"• Writing APIs in Python for Wireshark, CANoe and internal TTTech tools\n" +
-"• Reading C source code of the MotionWise core features in order to implement platform tests in Python\n" +
-"• Writing and automating tests for the Time Synchronization feature of MotionWise\n" +
-"• Writing documentation for tests in PTC software\n" +
-"• Writing documentation for APIs in Python\n" +
+"February 2016 –Present\n" +
+" Specialist\n" +
+" Tata Elxsi\n" +
+
+"\nNovember2015 –January 2016\n" +
+"Senior Software Engineer\n" +
+"Deep Thought Systems Pvt Ltd.\n" +
+    
+"\nAugust 2013 –October 2015\n" +
+"Embedded Software Engineer\n" +
+"Deep Thought Systems Pvt Ltd.\n" +
+    
+"\nFebruary2010 – July2013\n" +
+"Software Engineer\n" +
+"Society for Promotion of Alternative Computing and Employment.\n" +
 
 
-"\nApr 2016 - Dec 2018\n" +
-"RT-RK, Embedded Software Engineer\n" +
-"Harman project - Automotive Digital Television system\n" +
-"Software components and turnkey solutions for in-car STB (Set TopBox) and TV products based on iWedia software\n" +
-"• Developing STB features in C\n" +
-"• Debugging the software in GDB (multi-threaded C software)\n" +
-"• Creating a dynamic code analysis build using CLANG sanitizers\n" +
-
-
-"\nFeb 2016 - Apr 2016\n" + 
-"RT-RK, Embedded Software Engineering intern\n" + 
-"Harman project - Automotive Digital Television system\n" + 
-"Software components and turnkey solutions for in-car STB (Set TopBox) and TV products based on iWedia software\n" + 
-"• Debugging the software in GDB (multi-threaded C software)\n" + 
-"• Performing dynamic code analysis using Valgrind\n" + 
-
-
-"\nJun 2015 - Feb 2016\n" +
-"RT-RK, Compiler Tools Engineering intern\n" +
-"LLVM Project\n" +
-"The LLVM compiler infrastructure project is a collection of modular andreusable compiler and toolchain technologies used for developingcompiler frontends and backends\n" +
-"• Implementing and maintaining LLVM support for MIPS and microMIPS processors\n" +
-"• Transling the MIPS ISA (Instruction Set Architecture) to LLVM’s tableGen language\n" +
-"• Implementing MIPS instructions to the LLVM backend\n" +
-
-
-"\nSep 2013 - Feb 2014\n" +
-"T-COM,  Technical Support\n" +
-"Student job at Croatian Telecom T-COM\n" +
-"• Supporting telecom field technicians\n" +
-"• Remote configuration of DSLAM (Digital Subscriber Line AccessMultiplexer) devices\n" +
-"• Remote configuration of telecom user router\n" +
-
-
-"\nSep 2009 - Jun 2010\n" +
-"POINT, Computer Service Intern\n" +
-"Internship at a local computer service shop while in high school\n" +
-"• Installing Operating Systems on customer PC’s\n" +
-"• Diagnosing and fixing common PC hardware and software problems\n";
-
+"\nJuly 2009 – January 2010 \n" +
+"Lecturer cum Support Engineer\n" +
+"IRS Informatics India pvt Ltd.\n" ;
 
 var educationInfo = 
 "2005--2009 - B.Tech, Applied Electronics & Instrumentation Engineering \n" +
