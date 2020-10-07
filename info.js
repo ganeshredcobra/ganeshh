@@ -6,15 +6,15 @@ var skillsInfo = "• Programming Languages - C language, Python language, Bash.
   "• Debuggers - Lauterbach Trace 32, ULink2ME, PE Micro, ST Link, PICKit.\n";
 
 var experienceInfo = 
-"February 2016 –Present\n" +
+"February 2016 – Present\n" +
 " Specialist\n" +
 " Tata Elxsi\n" +
 
-"\nNovember2015 –January 2016\n" +
+"\nNovember2015 – January 2016\n" +
 "Senior Software Engineer\n" +
 "Deep Thought Systems Pvt Ltd.\n" +
     
-"\nAugust 2013 –October 2015\n" +
+"\nAugust 2013 – October 2015\n" +
 "Embedded Software Engineer\n" +
 "Deep Thought Systems Pvt Ltd.\n" +
     
@@ -40,9 +40,8 @@ var educationInfo =
 
 
 var projectsInfo = {
-  "Little Computer 3 Virtual Machine": "https://github.com/feelqah/LC3_VM",
-  "Simple 'Toy' Shell": "https://github.com/feelqah/ToyShell",
-  "Website Spell Checker for Croatian websites": "https://github.com/feelqah/CroSiteSpellCheck"
+  "Github": "https://github.com/ganeshredcobra",
+  
 };
 
 var aboutmeInfo = "\nTechnical Lead with 9+ years of experience in software engineering of Automotive embedded systems.\n" +
@@ -55,9 +54,9 @@ var aboutmeInfo = "\nTechnical Lead with 9+ years of experience in software engi
 var interestsInfo =
 "• Software Development\n" +
 "• Electronics  \n" +
-"• Cyber Security\n" +
+"• GNU/Linux\n" +
 "• Ethical Hacking \n" +
-"• Everything DIY \n" +
+"• Netflix \n" +
 "• Hiking\n" +
 "• Social Justice \n" +
 "• Activism\n";
