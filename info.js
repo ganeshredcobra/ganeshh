@@ -22,7 +22,6 @@ var experienceInfo =
 "Software Engineer\n" +
 "Society for Promotion of Alternative Computing and Employment.\n" +
 
-
 "\nJuly 2009 – January 2010 \n" +
 "Lecturer cum Support Engineer\n" +
 "IRS Informatics India pvt Ltd.\n" ;
